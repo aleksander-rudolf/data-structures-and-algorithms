@@ -1,6 +1,6 @@
 # AVLTrees
 
-Build a binary search tree using the data from the input file. Both insertion into and deletion from the tree will be done. The tree should be ordered by student 
+Build an AVL tree using the data from the input file. The program should do the appropriate rotations when inserting data into the tree. Only insertions into the tree need to be handled (i.e., use an input file that specifies only insertions, and no deletions). The tree should be ordered by student 
 last name (use a case-insensitive comparison). There are only unique records in the input file. Each node must contain the student data (exclude the operation code), 
 a left child pointer, and a right child pointer. A parent pointer is optional, but might prove useful for some operations.
 
