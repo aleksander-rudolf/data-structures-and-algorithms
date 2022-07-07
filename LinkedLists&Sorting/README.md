@@ -19,8 +19,7 @@ Words in a line should be separated by a single space.
 For example, this input:
 
 ```
-$car
-```
+car
 
 dog
 
@@ -35,11 +34,11 @@ pots
 arc
 
 tops
-
+```
 
 should yield the output:
 
-
+```
 arc car
 
 bed
@@ -47,7 +46,7 @@ bed
 dog god
 
 pots stop tops
-
+```
 
 You must use linked lists to deal with the arbitrary number of anagrams in a line, and use an array of references to keep track of all the linked lists.
 
