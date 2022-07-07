@@ -19,7 +19,7 @@ Words in a line should be separated by a single space.
 For example, this input:
 
 
-car
+$car
 
 dog
 
