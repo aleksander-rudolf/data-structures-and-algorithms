@@ -9,3 +9,14 @@ to a text file.
 
 Traverse the binary search tree, starting at the top level (the root node), proceeding downwards level-by-level. At each level print out the nodes from left to right.
 In other words, do a breadth-first traversal. You may have to use a queue to implement this. Print the node data to a text file.
+
+## How to use the AVLTrees Java Program
+
+1. Compile the program:
+	- In command-line, navigate to the directory containing the following source code files;
+	  (AppDriver.java, Utility.java, AVLTree.java, Node.java, Queue.java) 
+	  
+	- In the command-line, execute the following command: javac *.java
+	
+2. Run the program:
+	- In command-line, execute the following command (specify the input/output file names): java AppDriver inputFileName outputFileName1 outputFileName2
