@@ -49,4 +49,13 @@ pots stop tops
 
 You must use linked lists to deal with the arbitrary number of anagrams in a line, and use an array of references to keep track of all the linked lists.
 
-## 
+## How to use the LinkedLists&Sorting Java Program
+
+1. Compile the program:
+	- In command-line, navigate to the directory containing the following source code files;
+	  (AppDriver.java, Utility.java, SimpleList.java, Node.java, QuickSort.java) 
+	  
+	- In the command-line, execute the following command: javac *.java
+	
+2. Run the program:
+	- In command-line, execute the following command (specify the input/output file names): java AppDriver inputFileName outputFileName
